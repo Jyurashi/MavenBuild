@@ -1,5 +1,7 @@
 HelloWorld Servlet example with corresponding Dockerfile
 
+GOOD NIGHT
+
 Use Maven Build first to create war file in Target folder.
 
 mvn clean package
